@@ -15,4 +15,4 @@ npx hardhat help
 ```
 
 ex:
-npx hardhat verify --network rinkeby 0x7214AB3AC5dE6CDB7aeD213c3Ba0C2591097A34B https://example.com/ 0xA6431D80240C3a3FeF54Dd2179b2BDC13fEec467 100
+npx hardhat verify --network rinkeby 0x7214AB3AC5dE6CDB7aeD213c3Ba0C2591097A34B https://example.com/ https://example.com/ 0xA6431D80240C3a3FeF54Dd2179b2BDC13fEec467 100 1650326400 1650412800
